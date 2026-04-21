@@ -1,0 +1,13 @@
+{
+  "name": "iechilli",
+  "version": "1.0.0",
+  "description": "IEchilli chat app - Flutter web on Vercel",
+  "private": true,
+  "scripts": {
+    "build": "bash build.sh",
+    "vercel-build": "bash build.sh"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
