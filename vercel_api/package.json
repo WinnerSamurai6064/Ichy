@@ -2,7 +2,13 @@
   "name": "iechilli-api",
   "version": "1.0.0",
   "private": true,
+  "scripts": {
+    "build": "echo 'No build step required'"
+  },
   "dependencies": {
     "@neondatabase/serverless": "^0.9.5"
+  },
+  "engines": {
+    "node": "20.x"
   }
 }
